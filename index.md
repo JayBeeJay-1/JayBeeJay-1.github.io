@@ -15,3 +15,6 @@ Tyrion is a dwarf, with stubby legs, a jutting forehead, mismatched eyes of gree
 Tyrion says:
 
 > Next time I have an idea like that, punch me in the face.
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRrJDU-eRV7aOWOtFgDqfmHBd8BcYIZ6m99jSc1QAoqIGl1Bq_&usqp=CAU"/>
+
