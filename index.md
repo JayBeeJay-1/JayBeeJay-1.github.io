@@ -11,3 +11,7 @@ Tyrion is a dwarf, with stubby legs, a jutting forehead, mismatched eyes of gree
 * shot his father
 * loves a concubine
 * is a wicked man
+
+Tyrion says:
+
+> Next time I have an idea like that, punch me in the face.
